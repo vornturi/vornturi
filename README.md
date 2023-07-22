@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vornturi
+- 👋 Hi, I’m @realjode
 - 👀 
-- 🌱 day0
+- 🌱 day1
 - 💞️ anything relay
 - 📫 vornturi@proton.me
 
